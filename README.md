@@ -1,4 +1,10 @@
 # Bg-Removal
+### Input:
+<img src ="https://github.com/phoeenniixx/Bg-Removal/assets/116151399/cd020722-1da6-4b3f-9658-7ea7ac7c4c07" height ="500" wodth="500">
+
+### Output:
+<img src ="https://github.com/phoeenniixx/Bg-Removal/assets/116151399/1795eca4-67df-4683-bc47-939bc2a4612b" height ="500" wodth="500">
+
 
 
 ## Project Description:
